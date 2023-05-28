@@ -1,0 +1,12 @@
+diff --git a/node_modules/retry/index.js b/node_modules/retry/index.js
+index ee62f3a..daade09 100644
+--- a/node_modules/retry/index.js
++++ b/node_modules/retry/index.js
+@@ -1 +1,4 @@
+-module.exports = require('./lib/retry');
+\ No newline at end of file
++const rretry = require('./lib/retry');
++module.exports = rretry;
++
++export default rretry;
+\ No newline at end of file

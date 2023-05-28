@@ -1,0 +1,10 @@
+diff --git a/node_modules/loud-rejection/index.js b/node_modules/loud-rejection/index.js
+index ad179d3..6b0c3f6 100644
+--- a/node_modules/loud-rejection/index.js
++++ b/node_modules/loud-rejection/index.js
+@@ -36,3 +36,5 @@ const loudRejection = (log = console.error) => {
+ module.exports = loudRejection;
+ // TODO: remove this in the next major version
+ module.exports.default = loudRejection;
++
++export default loudRejection

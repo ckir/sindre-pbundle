@@ -1,0 +1,9 @@
+diff --git a/node_modules/delay/index.js b/node_modules/delay/index.js
+index 7dd2309..33bbc9f 100644
+--- a/node_modules/delay/index.js
++++ b/node_modules/delay/index.js
+@@ -70,3 +70,4 @@ delay.createWithTimers = createWithTimers;
+ module.exports = delay;
+ // TODO: Remove this for the next major release
+ module.exports.default = delay;
++export default delay

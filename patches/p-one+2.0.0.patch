@@ -1,0 +1,10 @@
+diff --git a/node_modules/p-one/index.js b/node_modules/p-one/index.js
+index 5f9e8bc..9426cbd 100644
+--- a/node_modules/p-one/index.js
++++ b/node_modules/p-one/index.js
+@@ -27,3 +27,5 @@ const pOne = async (iterable, testFunction, options) => {
+ 
+ module.exports = pOne;
+ module.exports.default = pOne;
++
++export default pOne

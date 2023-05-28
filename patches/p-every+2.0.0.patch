@@ -1,0 +1,10 @@
+diff --git a/node_modules/p-every/index.js b/node_modules/p-every/index.js
+index 64b2257..6e0c4bc 100644
+--- a/node_modules/p-every/index.js
++++ b/node_modules/p-every/index.js
+@@ -27,3 +27,5 @@ const pEvery = async (iterable, testFunction, opts) => {
+ 
+ module.exports = pEvery;
+ module.exports.default = pEvery;
++
++export default pEvery
