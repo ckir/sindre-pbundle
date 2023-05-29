@@ -1,21 +1,21 @@
-# sindre-p 
+# sindre-pbundle
 ---
 
 
-All Promise Utils functions from github.com/sindresorhus bundled together!
+All Promise Utils functions from github.com/sindresorhus bundled together for use in browser!
 
 ## Installation
 ---
 
 ```sh
-npm install github:ckir/sindre-p --save
+npm install github:ckir/sindre-pbundle --save
 ```
 
 ## Usage
 ---
 
 ```javascript
-import p from "sindre-p"
+import p from "sindre-pbundle"
 
 /*
     That's it!, now you can call any of his functions :)

@@ -1,3 +1,4 @@
+/// <reference types="../node_modules/p-all/index.d.ts" />
 import pAll from 'p-all';
 import pAny from 'p-any';
 import pBreak from 'p-break';
