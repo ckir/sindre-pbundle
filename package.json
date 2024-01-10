@@ -75,7 +75,7 @@
   },
   "devDependencies": {
     "@rollup/plugin-node-resolve": "^15.2.3",
-    "@rollup/plugin-typescript": "^11.1.5",
+    "@rollup/plugin-typescript": "^11.1.6",
     "@sindresorhus/tsconfig": "^3.0.1",
     "@types/node": "^20.10.7",
     "rollup": "^3.29.4",
