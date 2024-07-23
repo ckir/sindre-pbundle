@@ -82,6 +82,6 @@
     "rollup-plugin-polyfill-node": "^0.13.0",
     "rollup-plugin-ts": "^3.4.5",
     "tslib": "^2.6.3",
-    "typescript": "^5.5.3"
+    "typescript": "^5.5.4"
   }
 }
